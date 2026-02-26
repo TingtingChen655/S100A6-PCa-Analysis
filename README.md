@@ -56,7 +56,7 @@ To run the scripts successfully, please ensure the following R packages are inst
 
 1. **Clone this repository** to your local machine:
    ```bash
-   git clone https://github.com/[Your-GitHub-Username]/S100A6-PCa-Bone-Metastasis.git
+   git clone https://github.com/TingtingChen655/S100A6-PCa-Analysis.git
    ```
 2. **Set your Working Directory** in R to the root folder of the cloned repository.
 3. **Run the scripts** sequentially in the `Scripts/` folder to reproduce the differential analysis, enrichment plots, and multi-omics integration figures presented in the manuscript.
