@@ -23,7 +23,6 @@ All required data matrices and analysis scripts are organized as follows:
  ┣ 📂 Scripts
  ┃ ┣ 📜 01_RNAseq_Analysis.R               # Differential expression analysis (DEGs) and pathway enrichment (GO/KEGG)
  ┃ ┣ 📜 02_Metabolomics_Analysis.R         # Differential metabolite screening and metabolic pathway analysis
- ┃ ┗ 📜 03_Multiomics_Integration.R        # Transcriptome-Metabolome joint analysis and visualization
  ┗ 📜 README.md                            # Project documentation
 ```
 
