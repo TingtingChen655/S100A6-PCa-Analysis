@@ -1,6 +1,6 @@
-# Extracellular S100A6 Acts as a Paracrine Mediator Linking Tumor–Bone Crosstalk to Prostate Cancer Skeletal Metastasis
+# Extracellular S100A6 promotes prostate cancer skeletal metastasis through paracrine tumor–bone crosstalk
 
-Welcome to the official GitHub repository for our manuscript: **"Extracellular S100A6 acts as a paracrine mediator linking tumor–bone crosstalk to prostate cancer skeletal metastasis"**. 
+Welcome to the official GitHub repository for our manuscript: **"Extracellular S100A6 promotes prostate cancer skeletal metastasis through paracrine tumor–bone crosstalk"**. 
 
 This repository contains the processed multi-omics datasets (Transcriptomics and Metabolomics) and the custom bioinformatics pipelines used to uncover the molecular mechanisms by which S100A6 regulates prostate cancer (PCa) progression and bone niche remodeling.
 
@@ -45,7 +45,7 @@ The bioinformatic analyses and visualizations were performed using **R (version 
 To run the scripts successfully, please ensure the following R packages are installed:
 
 - `tidyverse` (Data manipulation and visualization)
-- `DESeq2` / `edgeR` (Differential gene expression analysis)
+- `limma` (Differential gene expression analysis)
 - `clusterProfiler` & `org.Hs.eg.db` (GO/KEGG Enrichment analysis)
 - `ggplot2` & `pheatmap` (Data visualization)
 - `ropls` (for Metabolomics PCA/OPLS-DA analysis)
